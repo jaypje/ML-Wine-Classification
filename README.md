@@ -11,7 +11,7 @@ UCI Wine dataset from sklearn (178 samples, 13 features)
 - Exploratory data analysis (heatmap, bar charts)
 - MinMaxScaler normalisation
 - SVM classification
-- 97-100% accuracy across different train/test splits
+- 91-100% accuracy across different train/test splits
 
 ## Libraries
 scikit-learn, pandas, numpy, matplotlib, seaborn
